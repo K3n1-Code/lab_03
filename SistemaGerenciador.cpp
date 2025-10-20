@@ -1,8 +1,6 @@
 
 
 #include "SistemaGerenciador.h"
-#include "Aluno.h"
-#include "Indice.h"
 #include <fstream>
 #include <iostream>
 #include <sstream>
